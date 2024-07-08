@@ -1,3 +1,0 @@
-/Users/hasankayan/Desktop/Personal/TesterHugo/build/CMakeFiles/main.dir
-/Users/hasankayan/Desktop/Personal/TesterHugo/build/CMakeFiles/edit_cache.dir
-/Users/hasankayan/Desktop/Personal/TesterHugo/build/CMakeFiles/rebuild_cache.dir
